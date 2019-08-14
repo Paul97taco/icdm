@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<head> 
+        <style>
+          div {
+            padding: 16px;
+            background-color: rgb(118, 2, 212);
+          }
+        </style>
+      </head>
+      <body>
+        <div>
+          <h1>Evaluación parcial 2 </h1>
+        </div>
+      </body>
+
+
+    </head>
+    
+    <body>
+            <html>
+                    <head> </head>
+                    <meta charset=“UTF-8”>
+                    <meta name=“viewport” content=“width=device-width”>
+                    </head>
+                    <body>
+                    <form action=“ingresar.php” method=“POST”>
+
+                    <input type=“text” placeholder=“Desde” name=“txtusuario” />
+
+                    <input type=“password” placeholder=“Hasta” name=“txtpassword” />
+                
+                    <input type ="button" name = "btn_generar" id ="btn_generar" value =generador />
+
+                    <input type ="button" name = "btn_Dibujar" id ="btn_generar" value =Dibujar />
+
+                    <input type  ="button" name = "btn_Iterador" id ="btn_generar" value = Iterador />
+                   
+                    </form>
+                    <body>
+
+        <form>
+             <body>
+                    <p>cedula: <input type="text" name="nombre" required></p>
+                   <p type ="button" name = "btn_procesar" id ="btn_generar" value =procesar />
+
+
+             </form>
+       </body>
